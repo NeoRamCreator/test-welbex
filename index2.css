@@ -21,19 +21,19 @@ body {
 .telegram {
   width: 20px;
   height: 20px;
-  background-image: url(/img/svg/telegram.svg);
+  background-image: url(../img/svg/telegram.svg);
 }
 
 .viber {
   width: 20px;
   height: 20px;
-  background-image: url(/img/svg/viber.svg);
+  background-image: url(../img/svg/viber.svg);
 }
 
 .whatsapp {
   width: 20px;
   height: 20px;
-  background-image: url(/img/svg/whatsapp.svg);
+  background-image: url(../img/svg/whatsapp.svg);
 }
 
 header {
